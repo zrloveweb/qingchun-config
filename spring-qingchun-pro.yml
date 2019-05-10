@@ -1,0 +1,12 @@
+person:
+    lastName: hello
+    age: 20
+    boss: true
+    birth: 2018/03/18
+    maps: {k1: v1,k2: 12}
+    lists:
+      - hfbin
+      - zhaoliu
+    dog:
+      name: dog
+      age: 12
