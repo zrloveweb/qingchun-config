@@ -10,3 +10,5 @@ person:
     dog:
       name: dog
       age: 12
+foo:
+    hello
